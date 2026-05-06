@@ -15,6 +15,7 @@ Exercises covering:
 Located in:
 - `/practical-activity-1`
 - `/practical-activity-2`
+- `/practical-activity-3`
 - (more to be added)
 
 ### Coding Challenges
@@ -23,6 +24,7 @@ Small tasks used to practise:
 - Clean file structure
 - Reusable components
 - Experimenting with layouts and styling
+- using semantic elements
 
 Located in:
 - `/coding-challenges`
