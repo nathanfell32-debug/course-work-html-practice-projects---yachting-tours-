@@ -16,6 +16,7 @@ Located in:
 - `/practical-activity-1`
 - `/practical-activity-2`
 - `/practical-activity-3`
+- `/practical-activity-4`
 - (more to be added)
 
 ### Coding Challenges
