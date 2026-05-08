@@ -11,12 +11,14 @@ Exercises covering:
 - Page layout techniques
 - Forms and tables
 - Responsive design fundamentals
+- implementing iframes
 
 Located in:
 - `/practical-activity-1`
 - `/practical-activity-2`
 - `/practical-activity-3`
 - `/practical-activity-4`
+- `/practical-activity-5`
 - (more to be added)
 
 ### Coding Challenges
