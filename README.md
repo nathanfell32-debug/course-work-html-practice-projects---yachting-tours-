@@ -28,9 +28,16 @@ Small tasks used to practise:
 - Reusable components
 - Experimenting with layouts and styling
 - using semantic elements
+- Typography
+- flexbox 
 
 Located in:
-- `/coding-challenges`
+- `/coding-challenges 1`
+- `/coding-challenges 2'
+- `/coding-challenges 3'
+- `/coding-challenges 4'
+- `/coding-challenges 5'
+- `/coding-challenges 6'
 
 ##  Tools Used
 - Visual Studio Code  
